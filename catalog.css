@@ -77,7 +77,7 @@ body {
 }
 
 .title-accent {
-    color: var(--foreground);
+    color: white;
 }
 
 .address-line {
